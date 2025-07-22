@@ -37,7 +37,7 @@ def run_quiz():
         },
         {
             "question": "Which of these does not use the SATA interface?",
-            "options": ["A) M.2", "B) HDD", "C) SSD", "D) Floppy disk"],
+            "options": ["A) M.2", "B) HDD", "C) SSD"],
             "answer": "A"
         },
         {
