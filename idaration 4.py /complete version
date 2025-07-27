@@ -32,7 +32,7 @@ def run_quiz():
         },
         {
             "question": "What is the MSRP of a Ryzen 5 5600 in USD?",
-            "options": ["A) $100", "B) $130", "C) $195", "D) $200"],
+            "options": ["A) $300", "B) $130", "C) $195", "D) $200"],
             "answer": "D"
         },
         {
