@@ -76,15 +76,14 @@ def run_quiz():
         print(f"\nQuiz complete! Your final score: {score}/{len(questions)}")
 
         while True:
-            play_again = input("Do you want to play again? (yes/no): ").strip().lower()
+            play_again = input("would you like to play again? (yes/no): ").strip().lower()
             if play_again in ["yes", "no"]:
                 break
             else:
                 print("Invalid input. Please enter 'yes' or 'no'.")
 
         if play_again == "no":
-            print("Thanks for playing! Goodbye!")
-            break
+            print("Ok Goodbye!")
 
 if __name__ == "__main__":
     run_quiz()
