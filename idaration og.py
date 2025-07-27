@@ -27,7 +27,7 @@ def run_quiz():
         },
         {
             "question": "How many GB of VRAM does a 5090 have?",
-            "options": ["A) 512MB", "B) 32GB", "C) 24GB", "D) 32Gb"], # Typo: "32Gb" instead of "32GB" for consistency
+            "options": ["A) 512MB", "B) 32GB", "C) 24GB", "D) 32Gb"],
             "answer": "B"
         },
         {
