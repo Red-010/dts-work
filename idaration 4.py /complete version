@@ -47,8 +47,8 @@ def run_quiz():
         },
         {
             "question": "Which brand uses Ti as a marker for a better card in clock speed?",
-            "options": ["A) nvidia ", "B) intel", "C) amd", "D) ATI"],
-            "answer": "A"
+            "options": ["A) ATI ", "B) intel", "C) amd", "D) nvidia"],
+            "answer": "D"
         }
     ]
 
